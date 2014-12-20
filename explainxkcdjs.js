@@ -1,0 +1,1 @@
+javascript:window.location="http://www.explainxkcd.com/wiki/index.php/"+window.location.pathname.split('/')[1];
